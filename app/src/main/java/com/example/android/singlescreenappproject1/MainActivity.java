@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Display discount information on the screen
     public void sendButton(View view) {
-        String discountMessage = "Congratulations you won 10% discount on the product you choose!!!" + "\nVisit our shop and show this message and get the discount." + "\nHappy shopping!!!" + "\nNew Tehnologies Team";
+        String discountMessage = "Congratulations you won 10% discount on the product you choose!!!" + "\nVisit our shop and show this message and get the discount." + "\nHappy shopping!!!" + "\nMikronis New Technologies Team";
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
@@ -29,11 +29,6 @@ public class MainActivity extends AppCompatActivity {
         if (intent.resolveActivity(getPackageManager()) != null) {
         startActivity(intent);
     }
-
-        // Display web
-        TextView t2 = (TextView) findViewById(R.id.text2);
-        t2.setMovementMethod(LinkMovementMethod.getInstance());
-
 
 
     }

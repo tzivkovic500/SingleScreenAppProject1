@@ -2,18 +2,21 @@
     <string name="app_name">SingleScreenAppProject1</string>
 
     <!-- Header text (CHAR LIMIT=20) -->
-    <string name="title"> - New Tehnologies - </string>
+    <string name="title">Mikronis - New Technologies Shop</string>
 
     <!-- Header text for adress  -->
-    <string name="adress">Savska Cesta 11, Zagreb</string>
+    <string name="adress">Nova cesta 166, Zagreb</string>
 
     <!-- Header text for phone number (CHAR LIMIT=20) -->
-    <string name="phone_number">00385 976 313 181</string>
+    <string name="phone_number">01 3033-115</string>
 
 
     <!-- Header text for button (CHAR LIMIT=20) -->
     <string name="Click_for_discount">CLICK FOR DISCOUNT</string>
 
-    <string name="txtCredits">www.newtehnologies.com<a href="https://www.facebook.com/profile.php?id=100008931420878"></a></string>
+    <!-- Go to web  -->
+    <string name="txtCredits">www.mikronis.hr</string>
+
+
 
 </resources>
