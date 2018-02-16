@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SingleScreenAppProject1</string>
+
+    <!-- Header text (CHAR LIMIT=20) -->
+    <string name="title"> - New Tehnologies - </string>
+
+    <!-- Header text for adress  -->
+    <string name="adress">Savska Cesta 11, Zagreb</string>
+
+    <!-- Header text for phone number (CHAR LIMIT=20) -->
+    <string name="phone_number">00385 976 313 181</string>
+
+
+    <!-- Header text for button (CHAR LIMIT=20) -->
+    <string name="Click_for_discount">CLICK FOR DISCOUNT</string>
+
+    <string name="txtCredits">www.newtehnologies.com<a href="https://www.facebook.com/profile.php?id=100008931420878"></a></string>
+
+</resources>
