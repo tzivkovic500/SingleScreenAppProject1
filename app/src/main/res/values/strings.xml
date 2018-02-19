@@ -1,9 +1,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">SingleScreenAppProject1</string>
 
-    <!-- Header text (CHAR LIMIT=20) -->
-    <string name="title">Mikronis - New Technologies Shop</string>
-
     <!-- Header text for adress  -->
     <string name="adress">Nova cesta 166, Zagreb</string>
 
@@ -12,7 +9,7 @@
 
 
     <!-- Header text for button (CHAR LIMIT=20) -->
-    <string name="Click_for_discount">CLICK FOR DISCOUNT</string>
+    <string name="Click_for_discount">CLICK HERE FOR DISCOUNT</string>
 
     <!-- Go to web  -->
     <string name="txtCredits">www.mikronis.hr</string>

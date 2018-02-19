@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Display discount information on the screen
     public void sendButton(View view) {
-        String discountMessage = "Congratulations you won 10% discount on the product you choose!!!" + "\nVisit our shop and show this message and get the discount." + "\nHappy shopping!!!" + "\nMikronis New Technologies Team";
+        String discountMessage = "Congratulations you won 10% discount on the product you choose!!!" + "\nVisit our shop and show this message and get the discount." + "\nHappy shopping!!!" + "\nMikronis Team";
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
